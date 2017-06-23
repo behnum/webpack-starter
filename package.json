@@ -1,0 +1,24 @@
+{
+  "name": "webpack-starter",
+  "version": "0.0.1",
+  "description": "An plain and opinionated boilerplate for the frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behnum/webpack-starter.git"
+  },
+  "keywords": [
+    "webpack",
+    "jquery",
+    "frontend"
+  ],
+  "author": "Behnam Baharmand",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/behnum/webpack-starter/issues"
+  },
+  "homepage": "https://github.com/behnum/webpack-starter#readme"
+}
